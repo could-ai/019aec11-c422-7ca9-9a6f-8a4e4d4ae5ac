@@ -210,7 +210,7 @@ class _DigitalClockScreenState extends State<DigitalClockScreen> {
         const SizedBox(height: 5),
         Text(
           label,
-          style: GoogleFonts.robotic(
+          style: GoogleFonts.roboto(
             fontSize: 10,
             color: Colors.grey[600],
           ),
